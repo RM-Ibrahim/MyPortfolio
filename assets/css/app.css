@@ -18,13 +18,24 @@ h3 {
 }
 
 p {
-    background-color: grey;
     text-align: justify;
     line-height: 1.15;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.2em;
+    font-size: normal;
 }
 
 footer {
     text-align: center;
+}
+
+* {
+    background-color: lightgrey;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nickname {
+    color: grey;
 }
