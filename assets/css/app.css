@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    background-color: grey;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+}
