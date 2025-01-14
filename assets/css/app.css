@@ -39,3 +39,12 @@ li {
 #nickname {
     color: grey;
 }
+
+.mark {
+    background-color: aqua;
+}
+
+.kisah p {
+    font-size: 14px;
+    color: red;
+}
