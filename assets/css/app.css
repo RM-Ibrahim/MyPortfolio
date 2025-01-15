@@ -44,7 +44,16 @@ li {
     background-color: aqua;
 }
 
-.kisah p {
+.kisah >  p {
     font-size: 14px;
-    color: red;
+    color: blue;
+}
+
+.publish p {
+    font-size: 10px;
+    color: brown;
+}
+
+a + button {
+    background-color: gray;
 }
