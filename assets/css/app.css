@@ -78,3 +78,15 @@ button:hover {
 section:nth-of-type(1) {
     background-color: grey;
 }
+
+section h3::first-letter {
+    font-size: xx-large;
+}
+
+section h3::before {
+    content: '*';
+}
+
+section p::first-line {
+    color: red;
+}
