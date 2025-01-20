@@ -49,9 +49,18 @@ li {
     color: blue;
 }
 
+/*.kisah > p:hover {
+    cursor:pointer;
+}  */
+
 .publish p {
     font-size: 10px;
     color: brown;
+}
+
+.publish p:hover {
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 a + button {
@@ -60,4 +69,12 @@ a + button {
 
 input[type="password"] {
     color: red;
+}
+
+button:hover {
+    background-color: cyan;
+}
+
+section:nth-of-type(1) {
+    background-color: grey;
 }
