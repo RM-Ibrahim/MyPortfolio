@@ -1,0 +1,35 @@
+div {
+    width: 300px;
+    margin: 20px;
+}
+
+div {
+    border-style: dotted dashed ridge inset;
+    border-width: 5px 10px 15px 20px;
+    border-color: aqua red black pink;
+}
+
+div {
+    padding: 10px 100px 40px 5px;
+}
+
+div {
+    margin: 50px 50px 50px 50px;
+}
+
+h1 {
+    background-color: aquamarine;
+    border: 2px solid black;
+    width: 500px;
+    padding: 100px;
+    margin: 50px;
+    display: inline-block;
+}
+
+span {
+    background-color: grey;
+    border: 2px solid black;
+    width: 500px;
+    padding: 10px;
+    margin: 50px;
+}
