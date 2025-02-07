@@ -10,8 +10,11 @@ h2 {
 
 h1 {
     text-align: center;
+<<<<<<< HEAD
     color: red;
     font-size: 6em;
+=======
+>>>>>>> 4fab475a5f7d2e67e0a6e510d83bc7c0a9e5796e
 }
 
 h3 {
@@ -96,6 +99,7 @@ section p::first-line {
 #container  {
     background-color: #003049;
     width: 90%;
+<<<<<<< HEAD
     /* height: 500px; */
     margin: 0 auto;
     border: 5px solid #003049;
@@ -189,4 +193,18 @@ li {
     h1 {
         font-size: 2em;
     }
+=======
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+#container div {
+    width: 600px;
+    height: 100px;
+>>>>>>> 4fab475a5f7d2e67e0a6e510d83bc7c0a9e5796e
 }
